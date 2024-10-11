@@ -115,6 +115,7 @@ Calculates the standard deviation of the last 100 price records for the specifie
 ```
     
 ## Deployment
+Link :- https://koinx-backend-internship-assignment-1.onrender.com/
 Deployed on Render: This application is deployed on Render for free hosting.
 
 ## License
