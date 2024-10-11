@@ -24,4 +24,4 @@ const cryptoSchema = new Schema({
 },
 });
 
-const CryptoData = mongoose.model("CryptoData", cryptoSchema);
+export const CryptoData = mongoose.model("CryptoData", cryptoSchema);
